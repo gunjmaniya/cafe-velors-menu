@@ -764,9 +764,9 @@ footer > small {
 
 /* Desktop પર Mobile Preview */
 
-@media (max-width: 380px) {
-  .cafe-logo {
-    width: 60px;
-    height: 60px;
+@media (min-width: 481px) {
+  body {
+    border-right: 1px solid #d5cec5;
+    border-left: 1px solid #d5cec5;
   }
 }
