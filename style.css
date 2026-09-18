@@ -77,14 +77,12 @@
 73|   width: 280px;
 74|   height: 280px;
 75| }
-76| 
-77| .cafe-logo {
-78|   position: relative;
-79|   z-index: 1;
-| 80|   width: 90px;
-| 81|   height: 90px;
-82|   margin-bottom: 12px;
-83|   object-fit: contain;
+76| .cafe-logo {
+  width: 90px;
+  height: 90px;
+  margin-bottom: 12px;
+  object-fit: contain;
+}
 84| }
 85| 
 86| .monogram {
